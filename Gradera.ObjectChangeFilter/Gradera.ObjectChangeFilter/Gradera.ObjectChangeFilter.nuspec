@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>1.0.1</version>
+    <title>Gradera ObjectChangeFilter</title>
+    <authors>Victor Öhrström</authors>
+    <owners>Victor Öhrström</owners>
+    <licenseUrl>https://github.com/Tyre88/Gradera.ObjectChangeFilter/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Tyre88/Gradera.ObjectChangeFilter</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library to make generic object checks, it's primarily used to make a check if someone else has saved the item you're about to save while you had the object open.</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Object Check Filter</tags>
+  </metadata>
+</package>

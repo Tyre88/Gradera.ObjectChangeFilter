@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Gradera.ObjectChangeFilter")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Library to make generic object checks, it's primarily used to make a check if someone else has saved the item you're about to save while you had the object open.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Gradera")]
 [assembly: AssemblyProduct("Gradera.ObjectChangeFilter")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
