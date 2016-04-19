@@ -9,3 +9,5 @@ Usage: On save functions
 On the get function
 
 [ObjectChangeFilter(IdentifierProperty = "Id", ChangeType = ChangeType.Get)]
+
+Install from NuGet: Install-Package Gradera.ObjectChangeFilter
